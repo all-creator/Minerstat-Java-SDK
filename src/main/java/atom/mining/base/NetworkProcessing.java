@@ -65,7 +65,7 @@ public class NetworkProcessing {
      * @throws IllegalStateException if it is called
      */
     public String post(String url, String data) {
-        // TODO
+        // TODO Implementation of a post request to Minerstat. (Why?). Or removing this method.
         throw new IllegalStateException("NetworkProcessing post method not implemented");
     }
 
